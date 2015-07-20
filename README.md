@@ -1,2 +1,15 @@
 # XposedRecentTasksRAM
-Xposed module for Android 4.x that adds a bar at the top of recent tasks screen showing the amount of used/free RAM
+
+Here's another feature I extracted from the [GravityBox](http://forum.xda-developers.com/showthread.php?t=2316070) Xposed Module.  
+The module adds a bar at the top of recent tasks screen showing the amount of used/free RAM.
+
+Requirements:
+ - Xposed Recent Tasks RAM should work on any device having **Xposed 2.1 or greater** and **Android 4.1 or greater** (google based rom.. as mentioned in the GravityBox post "pure or close to pure Android").
+
+Tested on
+- Samsung Galaxy Ace S5830 with Android 4.3 (teuf3l)
+- Samsung Galaxy S with HellyBean (a fork of Cyanogenmod 10.2 - Android 4.3) and Xposed 2.3.1. (myself)
+- Samsung Galaxy S3 with 4.1.2 Touchwiz ROM (SuperSmashedBro)
+- Samsung Galaxy S4 with WanamLite 1.5 XXUBMH1 Android 4.2.2 (TouchWizz Rom) (yurividal)
+
+Thanks to [C3C076](http://forum.xda-developers.com/member.php?u=5008415) for his open source development.
