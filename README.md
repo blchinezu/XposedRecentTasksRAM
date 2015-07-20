@@ -13,3 +13,9 @@ Tested on
 - Samsung Galaxy S4 with WanamLite 1.5 XXUBMH1 Android 4.2.2 (TouchWizz Rom) (yurividal)
 
 Thanks to [C3C076](http://forum.xda-developers.com/member.php?u=5008415) for his open source development.
+
+XDA Thread:
+ - http://forum.xda-developers.com/xposed/modules/xposed-xposed-recent-tasks-ram-t2496786
+
+Available in the Xposed Repository:
+ - http://repo.xposed.info/module/ro.brucelee.xposed.recenttasksram
