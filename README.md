@@ -19,3 +19,9 @@ XDA Thread:
 
 Available in the Xposed Repository:
  - http://repo.xposed.info/module/ro.brucelee.xposed.recenttasksram
+
+Screenshots:
+
+![Screenshot_2013-10-24-15-32-26.jpg](https://raw.githubusercontent.com/blchinezu/XposedRecentTasksRAM/master/screenshots/Screenshot_2013-10-24-15-32-26.jpg)
+![Screenshot_2013-10-24-15-32-45.jpg](https://raw.githubusercontent.com/blchinezu/XposedRecentTasksRAM/master/screenshots/Screenshot_2013-10-24-15-32-45.jpg)
+![Screenshot_2013-10-25-12-49-52.jpg](https://raw.githubusercontent.com/blchinezu/XposedRecentTasksRAM/master/screenshots/Screenshot_2013-10-25-12-49-52.jpg)
