@@ -25,9 +25,3 @@ Screenshots:
 ![Screenshot_2013-10-24-15-32-26.jpg](https://raw.githubusercontent.com/blchinezu/XposedRecentTasksRAM/master/screenshots/Screenshot_2013-10-24-15-32-26.jpg)
 ![Screenshot_2013-10-24-15-32-45.jpg](https://raw.githubusercontent.com/blchinezu/XposedRecentTasksRAM/master/screenshots/Screenshot_2013-10-24-15-32-45.jpg)
 ![Screenshot_2013-10-25-12-49-52.jpg](https://raw.githubusercontent.com/blchinezu/XposedRecentTasksRAM/master/screenshots/Screenshot_2013-10-25-12-49-52.jpg)
-
-You can donate through PayPal at [brucelee.duckdns.org/donation/XposedRecentTasksRAM](http://brucelee.duckdns.org/donation/XposedRecentTasksRAM)
-
-    Since I can't directly add the PayPal donation button here, I've created a simple page
-    which has the Donate button.
-    
